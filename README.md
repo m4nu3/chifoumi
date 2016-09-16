@@ -1,0 +1,2 @@
+# chifoumi
+Pierre, Feuille, Ciseaux
